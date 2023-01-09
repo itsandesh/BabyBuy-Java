@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "663718730681",
+    "firebase_url": "https://babybuy-4f105-default-rtdb.firebaseio.com",
+    "project_id": "babybuy-4f105",
+    "storage_bucket": "babybuy-4f105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663718730681:android:0f854de5d1c407641ff468",
+        "android_client_info": {
+          "package_name": "com.sandesh.babybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663718730681-nc9nf2imdjprj2lavoqreu2kqp8cru2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_fOYTgputFO74Xek678BOIUZ213Fj64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663718730681-nc9nf2imdjprj2lavoqreu2kqp8cru2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663718730681:android:d3e8c9d10e50e54a1ff468",
+        "android_client_info": {
+          "package_name": "np.com.sandesh.babybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663718730681-iko9knadotbuhg0orfdfftb9l0vmj57u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.sandesh.babybuy",
+            "certificate_hash": "f47df7d86e364512074902c9bda0132f784d2b84"
+          }
+        },
+        {
+          "client_id": "663718730681-nc9nf2imdjprj2lavoqreu2kqp8cru2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_fOYTgputFO74Xek678BOIUZ213Fj64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663718730681-nc9nf2imdjprj2lavoqreu2kqp8cru2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
